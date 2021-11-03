@@ -1,4 +1,4 @@
-# Curso "RxJS en contexto"
+# Curso: RxJS en contexto
 
 ## Módulo 1: El Curso
 
